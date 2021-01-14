@@ -29,8 +29,8 @@ class Table extends React.Component {
     sortByThis=()=>{
         let toBeSorted = this.state.root;
         toBeSorted.sort((elementA, elementB) => {
-            let nameA = elementA.name.first.toUpperCase();
-            let nameB = elementB.name.first.toUpperCase();
+            let nameA = elementA.name.first.toLowerCase();
+            let nameB = elementB.name.first.toLowerCase();
 
             if(nameA > nameB) {
                 return this.state.sort ? 1 : -1;
