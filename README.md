@@ -24,9 +24,9 @@ With this User Directory App, users are able to view their entire employee direc
 
 <a name="usage"></a>
 ## 3. Usage
-To run this application locally, run npm install in your terminal. Run node server.js on your terminal to start the server and follow the link or open it on your browser to view the application on your computer(locally). The application running on GitHub Pages can be found [here](https://ancient-cliffs-32890.herokuapp.com/) UPDATE
+To run this application locally, run npm install in your terminal. Run node server.js on your terminal to start the server and follow the link or open it on your browser to view the application on your computer(locally). The application running on GitHub Pages can be found [here](https://lisaaaalisa.github.io/userDirectory/) 
 
-![](./1.png)  UPDATE
+![](./1.png)  
 
 <a name="issues"></a>
 ## 4. Issues
